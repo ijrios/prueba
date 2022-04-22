@@ -1,0 +1,13 @@
+{
+  "sensores": [
+    { "id": 1, "title": "Temperatura", "value": 28, "signo": "° C","fecha" : "02/02/2022"},
+    { "id": 2, "title": "Humedad", "value": 60.6, "signo": "%", "fecha" : "02/02/2022"}
+  ],
+  "commentrios": [
+    { "id": 1, "body": "Temperatura en tiempo real", "postId": 1 },
+    { "id": 2, "body": "Humedad en tiempo real", "postId": 1 }
+  ],
+  "perfil": {
+    "name": "typicode"
+  }
+}
