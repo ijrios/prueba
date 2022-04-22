@@ -1,1 +1,5 @@
-{"Sensor_Id": "1", "Temperature":"35.27","Humidity":"61.4"}
+{
+  "sensores": [
+    { "Sensor_Id": 1, "Temperature": "35.27", "Humidit": 61.4}
+  ]
+}
